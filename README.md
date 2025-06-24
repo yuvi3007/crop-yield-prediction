@@ -1,4 +1,4 @@
-# 🌾 Crop Yield Prediction using Machine Learning
+# Crop Yield Prediction using Machine Learning
 
 A self-driven machine learning project to predict agricultural crop yield based on real-world historical data of Indian states from **1997 to 2019**. The project uses robust data preprocessing, pipeline automation, and regression modeling to deliver high-accuracy predictions.
 
@@ -43,8 +43,6 @@ To build an efficient regression model capable of predicting **crop yield** (in 
 | Metric   | Random Forest |
 |----------|----------------|
 | R² Score | **0.9345**     |
-| MAE      | ~18.3 kg/ha    |
-| RMSE     | ~25.1 kg/ha    |
 
 🎯 **93.45% R² score** demonstrates strong prediction capability across multiple states and crop types.
 
